@@ -27,7 +27,7 @@
 
 - [**Terraform on Azure: Automated Infrastructure**](https://github.com/nirosan-v/terraform-azure-infra) - Provisioned Azure resources with modules, RBAC and tagging.  
 - [**Azure CI/CD Pipeline**](https://github.com/nirosan-v/fastapi-azure-cicd) - Containerised FastAPI app with GitHub Actions → Azure App Service.  
-- [**Cloud Monitoring & Alerts**](#) - Grafana dashboards and Prometheus metrics for Azure VMs.  
+- [**Cloud Monitoring & Alerts**](https://github.com/nirosan-v/azure-prometheus-grafana) - Grafana dashboards and Prometheus metrics for Azure VMs.  
 
 ---
 
