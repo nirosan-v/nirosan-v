@@ -7,7 +7,7 @@
 
 ### 🎓 Certifications  
 
-<img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/azure-fundamentals-az900.png?raw=true" width="130" title="Microsoft Certified: Azure Fundamentals (AZ-900)"/> &nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/azure-fundamentals-az900.png?raw=true" width="130" title="Microsoft Certified: Azure Fundamentals (AZ-900)"/>](https://learn.microsoft.com/api/credentials/share/en-us/nirosan-v/22B91CC83275CB16?sharingId=B69C3A3022CB62E8) &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/azure-administrator-az104.png?raw=true" width="130" title="Microsoft Certified: Azure Administrator Associate (AZ-104)"/> &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/terraform-associate-003.png?raw=true" width="130" title="HashiCorp Certified: Terraform Associate (003)"/>
 
