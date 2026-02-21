@@ -9,7 +9,7 @@ Azure | Terraform | Grafana | Monitoring | Python | GitHub Actions
 
 [<img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/azure-fundamentals-az900.png?raw=true" width="130" title="Microsoft Certified: Azure Fundamentals (AZ-900)"/>](https://learn.microsoft.com/en-gb/users/nirosan-v/credentials/22b91cc83275cb16) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/azure-administrator-az104.png?raw=true" width="130" title="Microsoft Certified: Azure Administrator Associate (AZ-104)"/>](https://learn.microsoft.com/en-gb/users/nirosan-v/credentials/cb05db7e5a8c92bb) &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/terraform-associate-003.png?raw=true" width="130" title="HashiCorp Certified: Terraform Associate (003)"/>
+<img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/terraform-associate-003.png?raw=true" width="130" title="HashiCorp Certified: Terraform Associate (004)"/>
 
 ---
 
@@ -24,7 +24,6 @@ Azure | Terraform | Grafana | Monitoring | Python | GitHub Actions
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)    
 **Development & Environment**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Windows PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
