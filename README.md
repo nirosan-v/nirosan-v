@@ -9,7 +9,7 @@ Azure | Terraform | Grafana | Monitoring | Python | GitHub Actions
 
 [<img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/azure-fundamentals-az900.png?raw=true" width="130" title="Microsoft Certified: Azure Fundamentals (AZ-900)"/>](https://learn.microsoft.com/en-gb/users/nirosan-v/credentials/22b91cc83275cb16) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/azure-administrator-az104.png?raw=true" width="130" title="Microsoft Certified: Azure Administrator Associate (AZ-104)"/>](https://learn.microsoft.com/en-gb/users/nirosan-v/credentials/cb05db7e5a8c92bb) &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/terraform-associate-003.png?raw=true" width="130" title="HashiCorp Certified: Terraform Associate (004)"/>
+[<img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/terraform-associate-004.png?raw=true" width="130" title="HashiCorp Certified: Terraform Associate (004)"/>](https://www.credly.com/badges/9a86acea-057e-458d-a69c-a732727da21f/public_url) &nbsp;&nbsp;&nbsp;
 
 ---
 
@@ -41,7 +41,7 @@ Azure | Terraform | Grafana | Monitoring | Python | GitHub Actions
 
 ### Current Focus  
 - Strengthening **Azure + Terraform expertise**  
-- Preparing for **Terraform Associate (004)**  
+- Preparing for **GitHub Actions (GH-200)** certification 
 - Building and polishing Cloud/DevOps projects  
 
 ---
