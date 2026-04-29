@@ -1,37 +1,38 @@
-# Hi, I’m Nirosan
+# Hi, I’m Nirosan! Welcome to my GitHub Page...
+### Data Tech Stack
 
-**Data Analysis**  
-SQL | Excel | Power BI | Python
+<ins>**Data & Analytics**</ins>
 
----
+<img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/postgresql_icon.png?raw=true" width="80" title="PostgreSQL"/> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/mysql_icon.png?raw=true" width="80" title="MySQL"/> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/excel_icon.png?raw=true" width="80" title="Excel"/> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/power_bi_icon.png?raw=true" width="80" title="Power BI"/> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/tableau_icon.png?raw=true" width="80" title="Tableau"/> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/python_icon.png?raw=true" width="80" title="Python"/> &nbsp;&nbsp;&nbsp;
 
+PostgreSQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excel &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Power BI  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tableau &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python
 
-### Tech Stack  
+<ins>**Tools & Platforms**</ins>
 
-**Data**  
-SQL (postgreSQL/mySQL) Insert Icons
-Excel 
-Power Bi
-Tableau
-Python
+<img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/Git_icon.png?raw=true" width="80" title="Git"/> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/azure_icon.png?raw=true" width="80" title="Azure"/> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/vscode_icon.png?raw=true" width="80" title="VS Code"/> &nbsp;&nbsp;&nbsp;
 
-
-**Other Techincal Skills**  
-Azure, Git, Terraform
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Git &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Azure  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  VS Code
 
 ---
 
 ### Featured Projects  
 
-- [**PostGreSQL project**](https://github.com/nirosan-v/...) - Cleaned x dataset using SQL  
-- [**Amazon Price Scraper PYTHON**](https://github.com/nirosan-v/...) - BeautifulSoup, REQUESTS, DATETIME ETC
+- [**PostgreSQL project**](https://github.com/nirosan-v/...) - Cleaned x dataset using SQL  
+- [**Amazon Price Scraper PYTHON**](https://github.com/nirosan-v/...) - BeautifulSoup, REQUESTS, DATETIME
 - [**Dashboard within Github if poss in either Power Bi or Tableau**](https://github.com/nirosan-v/...) - Power BI dashboards to show Spotify project.
 
 ---
 
 ### Current Focus  
 - Strengthening **SQL + Excel expertise**  
-- Building and polishing data projects  
+- Building and polishing data visualisations  
 - Preparing for **Azure Data Fundamentals (DP-900)** certification
 
 ---
