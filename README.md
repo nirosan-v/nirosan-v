@@ -4,27 +4,27 @@
 <ins>**Data & Analytics**</ins>
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="center" width="100" valign="bottom">
+    <td align="center" width="110" valign="bottom">
       <img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/postgresql_icon.png?raw=true" width="80" title="PostgreSQL"><br>
       PostgreSQL
     </td>
-    <td align="center" width="100" valign="bottom">
+    <td align="center" width="110" valign="bottom">
       <img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/mysql_icon.png?raw=true" width="80" title="MySQL"><br>
       MySQL
     </td>
-    <td align="center" width="100" valign="bottom">
+    <td align="center" width="110" valign="bottom">
       <img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/excel_icon.png?raw=true" width="80" title="Excel"><br>
       Excel
     </td>
-    <td align="center" width="100" valign="bottom">
+    <td align="center" width="110" valign="bottom">
       <img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/power_bi_icon.png?raw=true" width="80" title="Power BI"><br>
       Power BI
     </td>
-    <td align="center" width="100" valign="bottom">
+    <td align="center" width="110" valign="bottom">
       <img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/tableau_icon.png?raw=true" width="80" title="Tableau"><br>
       Tableau
     </td>
-    <td align="center" width="100" valign="bottom">
+    <td align="center" width="110" valign="bottom">
       <img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/python_icon.png?raw=true" width="80" title="Python"><br>
       Python
     </td>
@@ -34,15 +34,15 @@
 <ins>**Tools & Platforms**</ins>
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="center" width="100" valign="bottom">
+    <td align="center" width="110" valign="bottom">
       <img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/Git_icon.png?raw=true" width="80" title="Git"><br>
       Git
     </td>
-    <td align="center" width="100" valign="bottom">
+    <td align="center" width="110" valign="bottom">
       <img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/azure_icon.png?raw=true" width="80" title="Azure"><br>
       Azure
     </td>
-    <td align="center" width="100" valign="bottom">
+    <td align="center" width="110" valign="bottom">
       <img src="https://github.com/nirosan-v/Nirosan-assets/blob/main/vscode_icon.png?raw=true" width="80" title="VS Code"><br>
       VS Code
     </td>
